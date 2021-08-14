@@ -1,2 +1,2 @@
-#Git and Github
-Understanding the basic of Git and Github
+# Git and Github
+ALX Training and Lessons in Becoming a Software Engineer
