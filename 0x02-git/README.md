@@ -1,2 +1,2 @@
-# Sub directory
-Creating sub directory in git
+# Sub-directory
+Understanding how to create subdirectory
